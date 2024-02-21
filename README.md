@@ -1,6 +1,7 @@
 ||| Aplicação de Lista de Tarefas em Python com Salvamento no Desktop
 
 Esta é uma aplicação simples de lista de tarefas em Python que pode ser executada no console. A aplicação permite ao usuário adicionar, editar, excluir tarefas e salvar a lista no desktop.
+
 Instruções de Uso:
 
     Requisitos:
