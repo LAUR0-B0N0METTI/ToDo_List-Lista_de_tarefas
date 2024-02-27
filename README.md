@@ -39,9 +39,9 @@ ________________________________________________________________________________
 **Exemplo de Uso:**
 
 
-=== Lista de Tarefas ===
-Nenhuma tarefa disponível.
-========================
+|||| Lista de Tarefas ||||<br>
+Nenhuma tarefa disponível.<br>
+||||||||||||||||||||||||||
 
 Escolha uma opção:
 1. Adicionar Tarefa
@@ -54,9 +54,9 @@ Digite a nova tarefa: Fazer compras
 
 Tarefa "Fazer compras" adicionada com sucesso.
 
-||| Lista de Tarefas |||
-1. Fazer compras
-||||||||||||||||||||||||
+|||| Lista de Tarefas ||||<br>
+1. Fazer compras<br>
+||||||||||||||||||||||||||
 
 Escolha uma opção:
 1. Adicionar Tarefa
