@@ -68,6 +68,6 @@ Saindo...
 <br>
 
 ### Autor<br>
-[Lauro Bonometti]
+[ Lauro Bonometti ]
 <br>
 <br>
